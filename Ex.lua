@@ -93,3 +93,10 @@ Window:NewMinimizer({
     ["Image"] = "rbxassetid://87245917237197",
     ["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
 })
+
+Redzmodbyseaminh:Notify({
+    ["Title"] = "Notification",
+    ["Content"] = "Script Loaded Successfully",
+    ["Image"] = "rbxassetid://10723415903",
+    ["Delay"] = 5
+})
