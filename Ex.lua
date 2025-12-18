@@ -1,6 +1,6 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/htzgamingssr/Spawn-Hub/refs/heads/main/Main-Gui-V5.lua"))()
+local Redzmodbyseaminh = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sea-MinhHub/Redz-mod-ui/main/Redz%20mod%20ui"))()
 
-local Window = Library:MakeWindow({
+local Redzmodbyseaminh = Redzmodbyseaminh:MakeWindow({
     ["Title"] = "Sea | Minh Hub",
     ["SubTitle"] = "by Sea | Minh Hub",
     ["ScriptFolder"] = "SeaMinhHubOther"
